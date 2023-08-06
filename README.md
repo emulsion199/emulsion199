@@ -2,7 +2,7 @@
 
 
 <div align="center" style="font-size:30px;">
-   <span style="background: linear-gradient(to top, #FFE400 50%, transparent 50%)">Language</span> 
+   <strong>Language</strong> 
 </div>
 
 <div align="center" style="font-size:30px;"><img alt="JS" src ="https://img.shields.io/badge/JavaScript-A8B9CC.svg?&style=for-the-badge&logo=JavaScript&logoColor=white"/><img alt="TS" src ="https://img.shields.io/badge/TypeScript-00599C.svg?&style=for-the-badge&logo=TypeScript&logoColor=white"/><img alt="Python" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white"/><img alt="C++" src ="https://img.shields.io/badge/C++-007396.svg?&style=for-the-badge&logo=C++&logoColor=white"/></div>
@@ -24,6 +24,8 @@
 
 <div align="center" style="font-size:30px;"><img alt="Python" src ="https://img.shields.io/badge/MySQL-4479A1.svg?&style=for-the-badge&logo=MySQL&logoColor=white"/><img alt="Python" src ="https://img.shields.io/badge/SQLite-003B57.svg?&style=for-the-badge&logo=SQLite&logoColor=white"/><img alt="Python" src ="https://img.shields.io/badge/MariaDB-003B57.svg?&style=for-the-badge&logo=MariaDB&logoColor=white"/>
 <br>
+<br>
+
 
 
 <div align="center" style="font-size:30px;">
