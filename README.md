@@ -1,7 +1,7 @@
 
 
 
-<div align="center" style="font-size:30px;">
+<div align="center" style="font-size:40px;">
    <strong>Language</strong> 
 </div>
 
